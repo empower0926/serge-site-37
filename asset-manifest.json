@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87c37fd5.chunk.css",
+    "main.js": "/static/js/main.c3a0e6a7.chunk.js",
+    "main.js.map": "/static/js/main.c3a0e6a7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.06fccacf.chunk.css": "/static/css/2.06fccacf.chunk.css",
+    "static/js/2.f696a210.chunk.js": "/static/js/2.f696a210.chunk.js",
+    "static/js/2.f696a210.chunk.js.map": "/static/js/2.f696a210.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca7e0640b7777d1d04e313f4d75c4722.js": "/precache-manifest.ca7e0640b7777d1d04e313f4d75c4722.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.06fccacf.chunk.css.map": "/static/css/2.06fccacf.chunk.css.map",
+    "static/css/main.87c37fd5.chunk.css.map": "/static/css/main.87c37fd5.chunk.css.map",
+    "static/media/style.scss": "/static/media/purpur-bg.7f9f479c.jpg",
+    "static/media/BitmapDashboard.png": "/static/media/BitmapDashboard.18ef5b9e.png",
+    "static/media/BitmapNewScienceImage.png": "/static/media/BitmapNewScienceImage.3d36e7de.png",
+    "static/media/ReadMore2Image.png": "/static/media/ReadMore2Image.3f32b0f9.png",
+    "static/media/ReadMoreImage.png": "/static/media/ReadMoreImage.e8c4086f.png",
+    "static/media/Video.jpg": "/static/media/Video.3d5ad1c0.jpg",
+    "static/media/Wallet.svg": "/static/media/Wallet.434f57f1.svg",
+    "static/media/logo_flash.svg": "/static/media/logo_flash.befa7ef2.svg"
+  }
+}
